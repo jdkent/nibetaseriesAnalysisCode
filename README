@@ -1,0 +1,5 @@
+## Order of scripts/commands
+1) grab_data_cmd.txt: grabs data from nibetaseries work
+2) make_group_mask.txt: computes mask from masks derived from fmriprep
+3) betaseries_prep.ipynb: zscores the data from nibetaseries
+4) betaseries_analysis.ipynb: uses independent components analysis to classify components

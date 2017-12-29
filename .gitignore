@@ -1,0 +1,3 @@
+.cache/*
+nilearn_cache/*
+.ipynb_checkpoints/*

@@ -1,0 +1,16 @@
+/ContrastName1   overall_mean
+/ContrastName2   congruent_mean
+/ContrastName3   incongruent_mean
+/ContrastName4   con>inc
+/ContrastName5   inc>con
+/NumWaves       2
+/NumContrasts   5
+/PPheights          1.000000e+00 1.000000e+00 1.000000e+00 1.000000e+00 1.000000e+00
+/RequiredEffect     100.000 100.000 100.000 100.000 100.000
+
+/Matrix
+5.000000e-01 5.000000e-01
+1.000000e+00 0.000000e+00
+0.000000e+00 1.000000e+00
+1.000000e+00 -1.000000e+00
+-1.000000e+00 1.000000e+00
