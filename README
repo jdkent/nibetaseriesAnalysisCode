@@ -3,3 +3,4 @@
 2) make_group_mask.txt: computes mask from masks derived from fmriprep
 3) betaseries_prep.ipynb: zscores the data from nibetaseries
 4) betaseries_analysis.ipynb: uses independent components analysis to classify components
+5) betaseries_dual_regression.ipynb: dual regression using components derived by the combined congruent and incongruent betas to derive components.
